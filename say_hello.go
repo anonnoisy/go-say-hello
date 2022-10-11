@@ -1,6 +1,6 @@
 package go_say_hello
 
-func SayHello() string {
+func Say() string {
 	return "Hi! Mom"
 }
 
